@@ -20,6 +20,8 @@ public class Main {
                 index++;
             } }
         System.out.println(Arrays.toString(kaart));
+        System.out.println("Het is gelukt met git");
+        
 
 
     }
